@@ -3,7 +3,7 @@ package calc;
 public class Data {
     private double param1;
     private double param2;
-    private Operators operation;
+    private Operators operation;  // операция
 
     public double getParam1() {
         return param1;
